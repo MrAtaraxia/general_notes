@@ -1,0 +1,8 @@
+Notes!
+
+venv 
+python -m venv /path/to/new/virtual/environment
+
+
+venv\Scripts\Activivate
+
